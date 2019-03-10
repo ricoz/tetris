@@ -1,6 +1,6 @@
 # Tetris
 
-Old C++ Tetris game I wrote in 2003
+Old C++ Tetris game I wrote in 2003.
 
 ## Screenshots
 
@@ -10,7 +10,7 @@ Old C++ Tetris game I wrote in 2003
 
 ## Notes
 
-* Thanks to Chris Barry for some of the codes.
+* Thanks to Chris Barry for some of the codes
 * Uses [ZEngine](https://github.com/jamesturk/zengine) (obsolete)
 
 ## Tasks
